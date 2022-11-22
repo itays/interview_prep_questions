@@ -1,0 +1,21 @@
+{
+  "name": "interview_prep_questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^29.0.1",
+    "ts-jest": "^28.0.8",
+    "ts-node": "^10.9.1"
+  }
+}
